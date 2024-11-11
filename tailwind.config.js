@@ -10,7 +10,7 @@ module.exports = {
       colors: {
         "main": "#ff7245",
         "main-altern": "#839226",
-        "acent": "#3E490F",
+        "acent": "#fd5722",
         "secondary": "#DC9A46",
         "main-light": "#f5f5f5",
         "secondary-light": "#F6F9FB",

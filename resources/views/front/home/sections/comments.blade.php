@@ -11,7 +11,7 @@
             <div class="swiper-wrapper">
             
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Excelente lugar para alojarse cuando visiten guadalajara</h4>
+                    <h4 class="font-bold">Excelente.</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -21,22 +21,7 @@
                     </ul>
 
                     <p class="text-sm">
-                        La ubicación, cerca de todo además de limpio y sin contar la comida que les diré parece comida de casa deliciosa
-                    </p>
-                </div>
-
-                <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Fantástico</h4>
-                    <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                    </ul>
-
-                    <p class="text-sm">
-                        El hotel súper limpio y el desayuno muy rico, excelente ubicación
+                        El lugar es perfecto para conocer el centro de la ciudad de Guadalajara la vdd ame la ubicación , la habitación cumplió mis perspectivas.
                     </p>
                 </div>
 
@@ -51,22 +36,7 @@
                     </ul>
 
                     <p class="text-sm">
-                        Todo esta perfecto. Los empleados son super amables,la comida del restaurant es rica y economica, el personal encargado de la limpieza muy bien presentable, amable y profecional,el conserje por las noches siempre disponible para conseguir cualquier cosa como comida o bebidas a altas horas de la madrugada
-                    </p>
-                </div>
-
-                <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">excelente</h4>
-                    <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                    </ul>
-
-                    <p class="text-sm">
-                        La habitación esta muy limpia todos los días el servicio excelente
+                        La ubicación y el lugar
                     </p>
                 </div>
 
@@ -81,7 +51,22 @@
                     </ul>
 
                     <p class="text-sm">
-                        Las habitaciones son muy amplias y limpias. El servicio muy amable.
+                        Ubicación..la persona en recepción fue amable..y en general me gusto el estilo antiguo que tiene el hotel. Muy típico del centro.. el precio ni se diga es genial.
+                    </p>
+                </div>
+
+                <div class="swiper-slide card-shadow p-8">
+                    <h4 class="font-bold">Excepcional</h4>
+                    <ul class="flex my-3">
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                    </ul>
+
+                    <p class="text-sm">
+                        Muy amable la recepcionista,las habitaciones limpias,contaba con los servicios más necesarios.
                     </p>
                 </div>
 
@@ -96,12 +81,12 @@
                     </ul>
 
                     <p class="text-sm">
-                        Que está en buena ubicación y los cuartos están muy bien todo bien
+                        El trato del personal del otel, muy buena ubicación
                     </p>
                 </div>
 
                 <div class="swiper-slide card-shadow p-8">
-                    <h4 class="font-bold">Excelente hotel. No duden en hospedarse aquí</h4>
+                    <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
                         <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
@@ -111,7 +96,22 @@
                     </ul>
 
                     <p class="text-sm">
-                        Todo me gustó! La habitación. Las camas. El Buffett. La atención del personal.
+                        Buena ubicación muy centrica
+                    </p>
+                </div>
+
+                <div class="swiper-slide card-shadow p-8">
+                    <h4 class="font-bold">Fantástico</h4>
+                    <ul class="flex my-3">
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                    </ul>
+
+                    <p class="text-sm">
+                        La ubicación es perfecta. Esta a 3 calles del centro.
                     </p>
                 </div>
             </div>

@@ -16,7 +16,7 @@
                 </h2>
                 <span class="w-[21rem] lg:w-[41rem]  mx-auto border-b-4 border-main"></span>
                 <p class="text-lg px-10">
-                    Hotel JA Centro en Guadalajara, sin duda, la mejor opción para alojarse en su próximo viaje de placer o de negocios a la perla Tapatía.
+                🏨 ¡Bienvenido a JA Centro hotel en el corazón de la ciudad! Habitaciones impecables 🛏️, servicio 24/7 🌟, servicios básicos que necesitas para tu estancia cómoda. Además, ofrecemos emocionantes tours 🚶‍♂️ por los lugares más visitados de la ciudad.
                 </p>
                 <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-main mx-auto mt-3">

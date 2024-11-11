@@ -4,7 +4,7 @@
             
             <li class="relative border-black border-opacity-30 border-b-2">
                 <div class="bg-main w-full h-28 inner-shadow">
-                    <img class="w-32 mx-auto pt-3" src="{{ asset('assets/logo.png') }}" alt="Logo">
+                    <img class="w-32 mx-auto" src="{{ asset('assets/logow.png') }}" alt="Logo">
                     <br>
                     <br>
                 </div>
