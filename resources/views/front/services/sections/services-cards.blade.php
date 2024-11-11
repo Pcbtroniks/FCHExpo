@@ -13,7 +13,7 @@
 
                     <div class="h-52 md:h-72 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
                         <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/ejecutiva.jpg') }}" alt="Rooms Photography">
+                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/simple.jpeg') }}" alt="Habitaciones Hotel JA Centro">
                         </picture>
 
                         <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
@@ -23,7 +23,7 @@
 
                     <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
 
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">65 Habitaciones</h2>
+                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">33 Habitaciones</h2>
 
                         <div>
 
@@ -72,42 +72,6 @@
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
                                 (Con horario de 7:00am a 9:30pm)
-                            </p>
-
-                        </div>
-                        
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
-                        </a>
-
-                    </div>
-
-                </div>
-
-                {{-- /card --}}
-
-                {{-- card --}}
-
-                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
-
-                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
-                        <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/gym.jpg') }}" alt="Restaurant Photography">
-                        </picture>
-
-                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg class="mx-auto my-auto" fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M608 224V152C608 121.1 582.9 96 552 96h-32C517.3 96 514.6 96.38 512 96.75V88C512 57.07 486.9 32 456 32h-32c-30.93 0-56 25.07-56 56V224h-96V88C272 57.07 246.9 32 216 32h-32C153.1 32 128 57.07 128 88v8.75C125.4 96.38 122.8 96 120 96h-32C57.07 96 32 121.1 32 152V224C14.4 224 0 238.4 0 256s14.4 32 31.1 32L32 360C32 390.9 57.07 416 88 416h32c2.75 0 5.375-.375 8-.75V424C128 454.9 153.1 480 184 480h32c30.93 0 56-25.07 56-56V288h96v136c0 30.93 25.07 56 56 56h32c30.93 0 56-25.07 56-56v-8.75C514.6 415.6 517.3 416 520 416h32c30.93 0 56-25.07 56-56V288c17.6 0 32-14.4 32-32S625.6 224 608 224zM120 368h-32c-4.375 0-8-3.625-8-8v-208c0-4.375 3.625-8 8-8h32C124.4 144 128 147.6 128 152v208C128 364.4 124.4 368 120 368zM224 424c0 4.375-3.625 8-8 8h-32c-4.375 0-8-3.625-8-8V88c0-4.375 3.625-8 8-8h32C220.4 80 224 83.62 224 88V424zM464 424c0 4.375-3.625 8-8 8h-32c-4.375 0-8-3.625-8-8V88c0-4.375 3.625-8 8-8h32c4.375 0 8 3.625 8 8V424zM560 360c0 4.375-3.625 8-8 8h-32c-4.375 0-8-3.625-8-8v-208c0-4.375 3.625-8 8-8h32c4.375 0 8 3.625 8 8V360z"/></svg>
-                        </div>
-                    </div>
-
-                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
-
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Gimnasio</h2>
-
-                        <div>
-
-                            <p class="text-sm font-bold text-dark-medium leading-6">
-                                Para aquellos que les gusta el fitness abierto de 6:00am a 10:00pm
                             </p>
 
                         </div>
@@ -253,78 +217,6 @@
 
                             <p class="text-sm font-bold text-dark-medium leading-6">
                                 lavandería (De lunes a sábado con costo adicional)
-                            </p>
-
-                        </div>
-                        
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
-                        </a>
-
-                    </div>
-
-                </div>
-
-                {{-- /card --}}
-
-                {{-- card --}}
-
-                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
-
-                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
-                        <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/installations/salones-2.jpg') }}" alt="Salon 2 Photography">
-                        </picture>
-
-                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z"/></svg>
-                        </div>
-                    </div>
-
-                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
-
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Salones de eventos</h2>
-
-                        <div>
-
-                            <p class="text-sm font-bold text-dark-medium leading-6">
-                                Capacidad de hasta 180 personas, con costo extra,  <a href="{{ route('event.contact') }}" class="text-base text-main underline">Cotiza tu evento</a> 
-                            </p>
-
-                        </div>
-                        
-                        <a class="hidden" target="_blank" href="https://direct-book.com/properties/HotelarboreaDirect">
-                            <button class="w-36 h-12 font-bold bg-ronda-orange text-white text-sm">Reservar Ahora</button>
-                        </a>
-
-                    </div>
-
-                </div>
-
-                {{-- /card --}}
-
-                {{-- card --}}
-
-                <div class="flex flex-col lg:max-h-80 xl:h-80 max-w-[22.5rem] my-8 h-[32rem] min-h-[32rem] lg:min-h-[39rem] sm:basis-1/2 sm:max-w-1/2 lg:basis-1/3 lg:max-w-1/3 px-2">
-
-                    <div class="h-52 lg:h-full min-h-5 basis-1/3 relative mb-8 md:mb-20 lg:mb-8">
-                        <picture>
-                            <img class="w-full object-cover md:h-72 h-60" src="{{ asset('assets/img/rooms/sencilla-plus.jpg') }}" alt="Salon 2 Photography">
-                        </picture>
-
-                        <div class="w-20 h-20 rounded-full bg-main p-4 absolute left-1/2 -translate-x-1/2 -bottom-16 md:-bottom-28 lg:-bottom-10">
-                            <svg fill="#ffffff" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512"><!--! Font Awesome Pro 6.3.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M402.3 101.8c-8.625-6-19.62-7.438-29.5-3.688l-96 36C264.3 138.7 256 150.8 256 164v73.72C248.7 234.8 240.6 232.9 232 232.9c-30.88 0-56 21.53-56 48s25.12 48 56 48s56-21.53 56-48V164l96-35.97v77.72c-7.303-2.996-15.38-4.814-24-4.814c-30.88 0-56 21.53-56 48s25.12 48 56 48s56-21.53 56-48V128C416 117.5 410.8 107.7 402.3 101.8zM232 296.9c-12.78 0-24-7.469-24-16s11.22-16 24-16s24 7.469 24 16S244.8 296.9 232 296.9zM360 264.9c-12.78 0-24-7.469-24-16s11.22-16 24-16s24 7.469 24 16S372.8 264.9 360 264.9zM528 480h-416C103.2 480 96 487.2 96 496C96 504.8 103.2 512 112 512h416c8.838 0 16-7.164 16-16C544 487.2 536.8 480 528 480zM576 0H64C28.65 0 0 28.65 0 64v320c0 35.35 28.65 64 64 64h512c35.35 0 64-28.65 64-64V64C640 28.65 611.3 0 576 0zM608 384c0 17.64-14.36 32-32 32H64c-17.64 0-32-14.36-32-32V64c0-17.64 14.36-32 32-32h512c17.64 0 32 14.36 32 32V384z"/></svg>
-                        </div>
-                    </div>
-
-                    <div class="p-4 sm:p-6 flex flex-col basis-2/3 xl:h-80 text-center">
-
-                        <h2 class="text-2xl font-bold my-4 sm:my-2 capitalize">Servicio de streaming</h2>
-
-                        <div>
-
-                            <p class="text-sm font-bold text-dark-medium leading-6">
-                                (Solo en habitaciones suite), Cajas de seguridad (En cada habitación).
                             </p>
 
                         </div>
