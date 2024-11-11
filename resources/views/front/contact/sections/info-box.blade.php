@@ -9,19 +9,17 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                        Pedro Moreno 726 Centro Histórico C.P. 44100 Guadalajara Jalisco, México
+                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
                     </p>
                 </li>
                 <li>
                     <p>
-                        +52 (33) 3614 0223
-                        <br>
-                        3614 0224
+                        +52 (33) 3658 1051
                     </p>
                 </li>
                 <li>
                     <p>
-                        reservaciones@hotelcasinoplaza.mx
+                        recepcion@hoteljacentro.com
                     </p>
                 </li>
                 <li>
