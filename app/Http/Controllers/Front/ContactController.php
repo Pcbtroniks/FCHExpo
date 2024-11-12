@@ -14,18 +14,19 @@ class ContactController extends Controller
 {
     private $contactEmail;
     private $eventContactEmail;
+    private $ContactMails;
 
     public function __construct()
     {
-        $this->contactEmail = 'reservaciones@hotelcasinoplaza.mx';
-        $this->eventContactEmail = 'ejecutivaventas@hotelcasinoplaza.mx';
+        $this->ContactMails[] = 'recepcion@hoteljacentro.com';
+        #$this->ContactMails[] = 'desarrollo.software@pcbtroniks.com';
     }
 
     public function sendContactEmail(ContactMailRequest $request)
     {
         $data = $request->validated();
 
-        Mail::to($this->contactEmail)->send(new ContactMail($data));
+        Mail::to($this->ContactMails)->send(new ContactMail($data));
 
         return redirect()->back()->with('success', 'El mensaje se ha enviado correctamente');
     }
