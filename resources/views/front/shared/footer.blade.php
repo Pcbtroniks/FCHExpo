@@ -8,7 +8,7 @@
 
         <div class="sm:order-3">
             <ul class="grid grid-cols-2 gap-7">
-                <li><a href="#"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
+                <li><a target="_blank" href="https://wa.me/3328000065?text=Hola%20me%20gustaría%20saber%20más%20sobre%20el%20hotel"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
                 <li><a target="_blank" href="https://www.facebook.com/jorgealejandrocentro"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
                 <li class="col-span-2 mx-auto w-12"><a target="_blank" href="https://www.tiktok.com/@ja.centro"><img src="{{ asset('assets/icons/socials/Tiktok.svg') }}" alt="Tiktok"></a></li>
             </ul>

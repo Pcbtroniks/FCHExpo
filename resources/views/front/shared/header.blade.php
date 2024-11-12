@@ -12,7 +12,7 @@
             <img src="{{ asset('assets/icons/menu.svg') }}" alt="menu">
         </div>
         <div class="hidden md:block bg-main rounded-xl">
-            <a href="#" class="bg-main h-12 w-12 p-1 rounded-xl block">
+            <a target="_blank" href="https://wa.me/3328000065?text=Hola%20me%20gustaría%20saber%20más%20sobre%20el%20hotel" class="bg-main h-12 w-12 p-1 rounded-xl block">
                 <img class="w-full h-full" src="{{ asset('assets/icons/whatsapp.svg') }}" alt="menu">
             </a>
         </div>
