@@ -228,9 +228,11 @@
                 <table width="500" border="0" cellspacing="0" cellpadding="0" align="center" class="responsive-table">
                   <tr>
                     <td align="center" valign="middle" style="font-size: 12px; line-height: 18px; font-family: Helvetica, Arial, sans-serif; color:#666666;">
-                      <span class="appleFooter" style="color:#666666;">Pedro Moreno 726
-                      Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México.
-                      </span><br><a class="original-only" style="color: #666666; text-decoration: none;">Privacidad</a><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #444444;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a style="color: #666666; text-decoration: none;">Este mail es de caracter confidencial</a>
+                      <span class="appleFooter" style="color:#666666;">
+                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                      </span>
+                      <br>
+                      <a class="original-only" style="color: #666666; text-decoration: none;">Privacidad</a><span class="original-only" style="font-family: Arial, sans-serif; font-size: 12px; color: #444444;">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</span><a style="color: #666666; text-decoration: none;">Este mail es de caracter confidencial</a>
                     </td>
                   </tr>
                 </table>

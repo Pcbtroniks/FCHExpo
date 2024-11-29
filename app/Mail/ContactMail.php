@@ -21,7 +21,8 @@ class ContactMail extends Mailable
     public function __construct($data)
     {
         $this->data = $data;
-        $this->subject = $data['subject'] ?? 'Nuevo correo de contacto desde la web de ' . config('app.name');
+        $this->subject = 'Correo desde la web hoteljacentro.com: ' . $data['subject'] 
+                            ?? 'Nuevo correo de contacto desde la web de ' . config('app.name');
     }
 
     /**
