@@ -2,12 +2,12 @@
     <div class="p-8">
 
         <div class="flex justify-center items-center flex-col">
-            <h3 class="text-3xl font-bold text-dark-text">Hotel JA Centro</h3>
+            <h3 class="text-3xl font-bold text-dark-text">Hotel FCH Minerva</h3>
             <span class="border-b-4 border-main block w-80 my-2"></span>
             <p class="w-1/2 text-center text-dark-text">
-            🏨 Confort Asequible 🏨
-            Ofrecemos tarifas accesibles. 
-            Disfruta de una estancia cómoda y relajante en nuestras habitaciones con todos los servicios básicos, diseñadas para brindarte todo lo que necesitas durante tu visita.
+                Reinventamos el concepto del “Hotel Boutique” para entregarte una estancia placentera y siempre a tu medida. 
+                Sin importar el motivo de tu viaje, en nuestro Adults Only hotel creamos una experiencia de hospedaje especialmente
+                pensada para ti y tus distintas necesidades mientras tú te encargas de tus distintas ocupaciones.
             </p>
         </div>
 

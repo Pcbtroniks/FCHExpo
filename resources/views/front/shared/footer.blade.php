@@ -8,9 +8,9 @@
 
         <div class="sm:order-3">
             <ul class="grid grid-cols-2 gap-7">
-                <li><a target="_blank" href="https://wa.me/3328000065?text=Hola%20me%20gustaría%20saber%20más%20sobre%20el%20hotel"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
-                <li><a target="_blank" href="https://www.facebook.com/jorgealejandrocentro"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
-                <li class="col-span-2 mx-auto w-12"><a target="_blank" href="https://www.tiktok.com/@ja.centro"><img src="{{ asset('assets/icons/socials/Tiktok.svg') }}" alt="Tiktok"></a></li>
+                <li><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/WhatsApp Inc.svg') }}" alt="WhatsApp"></a></li>
+                <li><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/Facebook.svg') }}" alt="Facebook"></a></li>
+                <li class="col-span-2 mx-auto w-12"><a target="_blank" href="#"><img src="{{ asset('assets/icons/socials/Tiktok.svg') }}" alt="Tiktok"></a></li>
             </ul>
         </div>
 
@@ -20,20 +20,20 @@
             <div class="h-8"></div>
 
             <div class="flex flex-col gap-10 text-left font-bold">
-                <a class="flex gap-2" href="tel:+523336581051">
+                <a class="flex gap-2" href="tel:+523333113958">
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Phone Icon">
                     <div class="flex flex-col justify-center">
-                        <span>+52 (33) 3658 1051</span>
+                        <span>+52 (33) 3311 3958</span>
                     </div>
                 </a>
-                <a class="flex gap-2" href="mailto:recepcion@hoteljacentro.com">
+                <a class="flex gap-2" href="mailto:recepcion@fchminerva.com">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
-                    <span>recepcion@hoteljacentro.com</span>
+                    <span>recepcion@fchminerva.com</span>
                 </a>
                 <a class="flex gap-2" href="#">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">
                     <span>
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                        Av. José María Morelos 2070, Arcos Vallarta, 44130 Guadalajara, Jal
                     </span>
                 </a>
             </div>
