@@ -11,7 +11,7 @@ button.cta-main-button {
     justify-content: center;
     align-items: center;
     border-radius: 5px;
-    background: #ff7245;/* Main */
+    background: #D75C73;/* Main */
     font-family: "Montserrat", sans-serif;
     box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
     overflow: hidden;
@@ -22,16 +22,25 @@ button.cta-main-button:after {
     content: " ";
     width: 0%;
     height: 100%;
-    background: #FFD401;
+    background: #F5C55B;
     position: absolute;
     transition: all 0.4s ease-in-out;
     right: 0;
+    
+    
 }
 
 button.cta-main-button:hover::after {
     right: auto;
     left: 0;
     width: 100%;
+}
+
+button.cta-main-button:hover {
+    transform: all 0.4s ease-in-out;
+    transition: all 0.4s ease-in-out;;
+    font-weight: 700;
+    
 }
 
 button.cta-main-button span {
@@ -41,15 +50,16 @@ button.cta-main-button span {
     padding: 18px 25px;
     color: #fff;
     font-size: 1.125em;
-    font-weight: 700;
+    
     letter-spacing: 0.3em;
     z-index: 20;
     transition: all 0.3s ease-in-out;
 }
 
 button.cta-main-button:hover span {
-    color: #ff7245;
+    color: white;
     animation: scaleUp 0.3s ease-in-out;
+    
 }
 
 @keyframes scaleUp {

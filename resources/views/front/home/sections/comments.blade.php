@@ -2,22 +2,22 @@
 
     <div class="space-y"></div>
 
-    <div class="px-4 md:px-24 text-shadow md:my-20">
+    <div class="px-4 md:px-54 text-shadow md:my-50">
 
         <h3 class="pr-10 text-5xl font-bold text-dark-text mb-10">Comentarios</h3>
 
-        <div id="coments-carousel" class="swiper md:grid md:grid-cols-2 md:gap-4">
+        <div id="coments-carousel" class="swiper md:grid md:grid-cols-5 md:gap-4">
         
-            <div class="swiper-wrapper">
+            <div class="swiper-wrapper mb-4">
             
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8">
                     <h4 class="font-bold">Excelente.</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5" ></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -25,14 +25,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -40,14 +40,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -55,14 +55,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -70,14 +70,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Fantástico</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -85,14 +85,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Excepcional</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">
@@ -100,14 +100,14 @@
                     </p>
                 </div>
 
-                <div class="swiper-slide card-shadow p-8">
+                <div class="swiper-slide shadow-lg p-8  ">
                     <h4 class="font-bold">Fantástico</h4>
                     <ul class="flex my-3">
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
-                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt=""></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
+                        <li class="mr-1"><img src="{{ asset('assets/icons/star.svg') }}" alt="" class="w-5"></li>
                     </ul>
 
                     <p class="text-sm">

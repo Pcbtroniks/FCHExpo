@@ -2,8 +2,8 @@
     <div class="p-8">
 
         <div class="flex justify-center items-center flex-col">
-            <h3 class="text-3xl font-bold text-dark-text">Hotel FCH Minerva</h3>
-            <span class="border-b-4 border-main block w-80 my-2"></span>
+            <h3 class="text-3xl font-bold text-dark-text">Hotel FCH Expo</h3>
+            <span class="border-b-4 border-hielow block w-80 my-2"></span>
             <p class="w-1/2 text-center text-dark-text">
                 Reinventamos el concepto del “Hotel Boutique” para entregarte una estancia placentera y siempre a tu medida. 
                 Sin importar el motivo de tu viaje, en nuestro Adults Only hotel creamos una experiencia de hospedaje especialmente
@@ -11,7 +11,7 @@
             </p>
         </div>
 
-        <div class="flex justify-center items-center gap-8 my-16 flex-col sm:flex-row flex-wrap">
+        <div class="flex justify-center items-center gap-28 my-16 flex-col sm:flex-row flex-wrap">
         
             <div class="flex items-center">
                 <div class="w-[90px] pr-4">

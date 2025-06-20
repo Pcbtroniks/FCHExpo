@@ -1,6 +1,6 @@
 <footer>
 
-    <div class="bg-main relative py-16 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
+    <div class="to-salmon bg-gradient-to-t from-hielow relative py-16 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
 
         <div>
             <img class="max-w-xs" src="{{ asset('assets/logow.png') }}" alt="Logo Country Hotel">
@@ -41,19 +41,19 @@
 
     </div>
 
-    <div class="bg-acent p-2">
+    <div class="bg-hielow p-2 ">
 
-        <ul class="text-gray font-bold flex flex-wrap gap-2 justify-center">
-            <li><a href="{{route('home')}}">Inicio</a></li>
-            <li><a href="{{route('installations')}}">Instalaciones</a></li>
-            <li><a href="{{route('rooms')}}">Habitaciones</a></li>
-            <li><a href="{{route('services')}}">Servicios</a></li>
-            <li><a href="{{route('contact')}}">Contacto</a></li>
+        <ul class="text-dark-text font-bold flex flex-wrap gap-2 justify-center gap-20 text-md">
+            <li class="hover:text-black"><a href="{{route('home')}}">Inicio</a></li>
+            <li class="hover:text-black"><a href="{{route('installations')}}">Instalaciones</a></li>
+            <li class="hover:text-black"><a href="{{route('rooms')}}">Habitaciones</a></li>
+            <li class="hover:text-black"><a href="{{route('services')}}">Servicios</a></li>
+            <li class="hover:text-black"><a href="{{route('contact')}}">Contacto</a></li>
         </ul>
 
     </div>
 
-    <div class="bg-acent p-3 text-center">
+    <div class="bg-salmon p-3 text-center">
         <p class="text-white/50 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>

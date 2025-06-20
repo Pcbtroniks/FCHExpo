@@ -24,6 +24,8 @@ Route::post('event-contact', [ContactController::class, 'sendEventContactEmail']
 
 Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
 
+Route::get('desing-and-art', [FrontController::class, "desingArt"])->name("desing-and-art");
+
 Route::get('rengin-direct-booking', function(){
     return redirect()->route('contact');
 })->name('rengin.direct-booking');

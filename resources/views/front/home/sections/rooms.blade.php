@@ -1,15 +1,19 @@
 <section>
-    <div class="p-8 bg-main-light">
+    <div class="p-8 bg-salmon-light">
 
         <div class="max-w-7xl mx-auto">
             
             <div class="mb-8">
                 
-                <h2 class="text-3xl font-bold">
+                <h2 class="text-3xl font-bold ">
                     Nuestras habitaciones
                 </h2>
-                <span class="border-b-4 border-main block sm:w-80 w-full my-2"></span>
+                <span class="border-b-4 border-salmon block sm:w-80 w-full my-2"></span>
+
+                <p class="text-center bold text-xl mt-4">Descubre algunas de las habitaciones exclusivas de FCH Hotels que puedes encontrar en nuestra ubicación
+FCH Hotel Expo</p>
             </div>
+
             
             <!-- <div class="md:columns-xs/*[20rem 320px]*/ lg:columns-sm/*[24rem 384px]*/ xl:columns-xl/*[36rem 576px]*/"> -->
             <div class="grid md:grid-cols-2 md:gap-4 justify-between">
@@ -41,7 +45,7 @@
                         <div>
                             <div class="space-y md:h-5"></div>
                             <a target="_blank" href="{{route('rengin.direct-booking')}}">
-                                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
                         
@@ -76,7 +80,7 @@
                         <div>
                             <div class="space-y md:h-5"></div>
                             <a target="_blank" href="{{route('rengin.direct-booking')}}">
-                                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
                         
@@ -111,7 +115,7 @@
                         <div>
                             <div class="space-y md:h-5"></div>
                             <a target="_blank" href="{{route('rengin.direct-booking')}}">
-                                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
                         
@@ -146,7 +150,7 @@
                         <div>
                             <div class="space-y md:h-5"></div>
                             <a target="_blank" href="{{route('rengin.direct-booking')}}">
-                                <button class="h-12 w-36 bg-main text-white text-sm font-bold">Reservar Ahora</button>
+                                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
                         

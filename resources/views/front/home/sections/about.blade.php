@@ -11,9 +11,7 @@
             </p>
             <br>
             <p class="lg:pr-8 text-justify text-dark-text mb-8 lg:mb-0">
-                Reinventamos el concepto del “Hotel Boutique” para entregarte una estancia placentera y siempre a tu medida. 
-                Sin importar el motivo de tu viaje, en nuestro Adults Only hotel creamos una experiencia de hospedaje especialmente
-                pensada para ti y tus distintas necesidades mientras tú te encargas de tus distintas ocupaciones.
+                A unos minutos de Expo Guadalajara; el principal espacio de exposiciones de Guadalajara, el más grande de México y primero en Latinoamérica. Cerca de uno de los principales accesos a la ciudad y cercano a distintos centros de entretenimiento y comerciales, nuestra ubicación Expo tiene todo para ofrecerle a nuestros huéspedes además de la atención de primer nivel que nos caracteriza. 
             </p>
             <div class="h-3 xl:h-8"></div>
             <a target="_blanck" href="{{ route('rengin.direct-booking') }}">

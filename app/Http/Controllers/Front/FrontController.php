@@ -51,4 +51,9 @@ class FrontController extends Controller
     {
         return view('front.restaurant-menu.menu/room-service');
     }
+
+    public function desingArt()
+    {
+        return view("front.desing-art.desing-and-art");
+    }
 }
