@@ -1,6 +1,6 @@
 <footer>
 
-    <div class="to-salmon bg-gradient-to-t from-hielow relative py-16 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
+    <div class=" bg-salmon  relative py-16 px-4 flex md:flex-row md:px-6 sm:justify-center flex-col items-center gap-24">
 
         <div>
             <img class="max-w-xs" src="{{ asset('assets/logow.png') }}" alt="Logo Country Hotel">
@@ -43,7 +43,7 @@
 
     <div class="bg-hielow p-2 ">
 
-        <ul class="text-dark-text font-bold flex flex-wrap gap-2 justify-center gap-20 text-md">
+        <ul class="text-white font-bold flex flex-wrap gap-4 justify-center 2xl:gap-20 text-md">
             <li class="hover:text-black"><a href="{{route('home')}}">Inicio</a></li>
             <li class="hover:text-black"><a href="{{route('installations')}}">Instalaciones</a></li>
             <li class="hover:text-black"><a href="{{route('rooms')}}">Habitaciones</a></li>
@@ -53,8 +53,8 @@
 
     </div>
 
-    <div class="bg-salmon p-3 text-center">
-        <p class="text-white/50 text-sm">
+    <div class="bg-aqua  p-3 text-center">
+        <p class="text-white/75 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
             <noscript>2023</noscript>

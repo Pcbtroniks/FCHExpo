@@ -1,4 +1,4 @@
-<section class="lg:col-span-2">
+<section class="lg:col-span-2 mb-3">
 
     <div class="p-4 sm:px-16 lg:p-1">
 
@@ -9,17 +9,27 @@
             <ul class="text-sm font-bold flex flex-col gap-10 text-center">
                 <li>
                     <p>
-                        Avenida Miguel Hidalgo y Costilla #656, C.P. 44100 Guadalajara, Jalisco, México
+                        Calle Coral 2530
+Residencial Victoria
+Guadalajara, Jalisco 
+México 
+45089
                     </p>
                 </li>
                 <li>
                     <p>
-                        +52 (33) 3658 1051
+                        +52 (33) 3623 2000
+                        <br>
++52 (33) 2306 8516
+                        <br>
++52 (33) 2306 8517
+
                     </p>
                 </li>
                 <li>
                     <p>
-                        recepcion@hoteljacentro.com
+                        
+expo@fch-hotels.com
                     </p>
                 </li>
                 <li>

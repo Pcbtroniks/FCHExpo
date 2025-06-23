@@ -21,7 +21,8 @@
                 </li>
                 <li>
                     <p>
-                        reservaciones@hotelcasinoplaza.mx
+                        
+expo@fch-hotels.com
                     </p>
                 </li>
                 <li>
