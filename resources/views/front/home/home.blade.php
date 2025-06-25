@@ -131,8 +131,15 @@ button.cta-main-button:hover span {
 
         @include('front.home.sections.rooms')
 
+        @include('front.home.sections.more')
+
         @include('front.home.sections.services')
+        
+        @include('front.home.sections.visit-us')
+
+        @include('front.home.sections.map')
 
         @include('front.home.sections.comments')
+
     </div>
 @endsection
