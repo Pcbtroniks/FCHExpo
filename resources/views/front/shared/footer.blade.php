@@ -20,20 +20,20 @@
             <div class="h-8"></div>
 
             <div class="flex flex-col gap-10 text-left font-bold">
-                <a class="flex gap-2" href="tel:+523333113958">
+                <a class="flex gap-2" href="tel:+523336232000">
                     <img src="{{ asset('assets/icons/call-outline.svg') }}" alt="Phone Icon">
                     <div class="flex flex-col justify-center">
-                        <span>+52 (33) 3311 3958</span>
+                        <span>+52 (33) 3623 2000</span>
                     </div>
                 </a>
-                <a class="flex gap-2" href="mailto:recepcion@fchminerva.com">
+                <a class="flex gap-2" href="mailto:expo@fch-hotels.com">
                     <img src="{{ asset('assets/icons/services/mail-outline.svg') }}" alt="Location Icon">
-                    <span>recepcion@fchminerva.com</span>
+                    <span>expo@fch-hotels.com</span>
                 </a>
                 <a class="flex gap-2" href="#">
                     <img src="{{ asset('assets/icons/location-outline.svg') }}" alt="Location Icon">
                     <span>
-                        Av. José María Morelos 2070, Arcos Vallarta, 44130 Guadalajara, Jal
+                        Calle Coral 2530, Residencial Victoriaa, 45089 Guadalajara, Jal
                     </span>
                 </a>
             </div>
@@ -53,12 +53,12 @@
 
     </div>
 
-    <div class="bg-aqua  p-3 text-center">
+    <div class="bg-aqua p-1 text-center">
         <p class="text-white/75 text-sm">
             &copy; 
             <script>document.write(new Date().getFullYear())</script>
             <noscript>2023</noscript>
-            Hotel JA Centro. Todos los derechos reservados.
+            Hotel FCH Expo. Todos los derechos reservados.
             Powered by <a href="https://pcbtroniks.com" target="_blank" class="font-bold">Pcbtroniks</a>.
         </p>
     </div>

@@ -10,7 +10,7 @@ Descubre todo lo que podemos hacer por ti, contáctanos o pregunta en nuestro Fr
             </p>
         </div>
 
-        <div class="sm:flex justify-center items-center gap-20 my-16 grid grid-cols-2 sm:flex-row flex-wrap">
+        <div class="sm:flex justify-center items-center gap-20 my-16 grid grid-cols-2 sm:flex-row flex-wrap select-none">
         
             <div class="flex items-center">
                 <div class="w-[90px] pr-4">

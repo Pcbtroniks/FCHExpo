@@ -21,10 +21,10 @@ function changeSlide() {
   }
 
   slides[currentIndex].classList.add('active');
-  setTimeout(changeSlide, 3000); // Cambia la imagen cada 3 segundos
+  setTimeout(changeSlide, 2000); 
 }
 
-setTimeout(changeSlide, 3000);
+setTimeout(changeSlide, 2000);
 </script>
 
 @endsection

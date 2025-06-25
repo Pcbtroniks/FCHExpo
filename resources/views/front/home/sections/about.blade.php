@@ -7,7 +7,7 @@
             </h2>
             <span class="border-b-4 border-hielow block lg:w-72 my-2"></span>
             <p class="text-xl">
-                En el corazón Guadalajara
+                Conectado con lo mejor de Guadalajara
             </p>
             <br>
             <p class="lg:pr-8 text-justify text-dark-text mb-8 lg:mb-0">

@@ -66,7 +66,7 @@
                 </h2>
                 <span class="w-[21rem] lg:w-[41rem]  mx-auto border-b-4 border-hielow"></span>
                 <p class="text-lg px-10">
-                    Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
+                    Calidez, servicio y atención al detalle: trabajamos continuamente para que tu experiencia con nosotros sea impecable.
                 </p>
                 <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-salmon mx-auto mt-3">
@@ -91,7 +91,7 @@
                 </h2>
                 <span class="w-[21rem] lg:w-[41rem]  mx-auto border-b-4 border-hielow"></span>
                 <p class="text-lg px-10">
-                    Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
+                    Más que hospedaje: una experiencia cuidada y en constante evolución para satisfacer incluso al viajero más exigente.
                 </p>
                 <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
                     <button class="cta-main-button w-80 bg-blue mx-auto mt-3">

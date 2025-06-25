@@ -6,8 +6,7 @@
 
         <div class="lg:max-w-xl">
 
-            <h2 class="pr-10 text-4xl font-bold md:py-10">Ubicado en el corazón de Guadalajara</h2>
-
+            <h2 class="pr-10 text-4xl font-bold md:py-10">Conectado con lo mejor de Guadalajara
         </div>
 
         <div>

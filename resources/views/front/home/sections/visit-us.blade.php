@@ -1,4 +1,4 @@
-<section>
+<section class="select-none">
 
     <div class="relative w-full ">
            <div class="dark-overlay">

@@ -5,7 +5,7 @@
     <div class="w-full p-4 sm:px-10 mt-8">
 
         {{-- Rooms --}}
-            <div class="max-w-screen-2xl mx-auto flex flex-wrap justify-center items-center">
+            <div class=" mx-auto grid sm:grid-cols-2 2xl:grid-cols-6 justify-center items-center">
 
                 {{-- card --}}
 
