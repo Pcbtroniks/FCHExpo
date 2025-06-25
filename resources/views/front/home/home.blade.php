@@ -10,8 +10,7 @@ button.cta-main-button {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-radius: 5px;
-    background: #D75C73;/* Main */
+    border-radius: 5px;/* Main */
     font-family: "Montserrat", sans-serif;
     box-shadow: 0px 6px 24px 0px rgba(0, 0, 0, 0.2);
     overflow: hidden;

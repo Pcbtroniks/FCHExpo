@@ -57,9 +57,9 @@ class FrontController extends Controller
         return view("front.desing-art.desing-and-art");
     }
 
-    public function resAranas()
+    public function resAnanas()
     {
-        return view("front.restaurants.resAranas");
+        return view("front.restaurants.resAnanas");
     }
 
     public function resGranada()

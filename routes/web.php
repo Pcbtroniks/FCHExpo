@@ -26,8 +26,10 @@ Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restauran
 
 Route::get('desing-and-art', [FrontController::class, "desingArt"])->name("desing-and-art");
 
-Route::get('restaurant-aranas', [FrontController::class, "resAranas"])->name('restaurant-aranas');
+Route::get('restaurant-ananas', [FrontController::class, "resAnanas"])->name('restaurant-ananas');
 Route::get('restaurant-granada', [FrontController::class, "resGranada"])->name('restaurant-granada');
+
+
 
 Route::get('rengin-direct-booking', function(){
     return redirect()->route('contact');

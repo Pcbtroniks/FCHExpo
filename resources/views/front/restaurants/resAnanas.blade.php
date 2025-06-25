@@ -16,7 +16,7 @@
 @section('content')
 
 <main>
-    @include('front.restaurants.sections.restaurant-granada')
+    @include('front.restaurants.sections.restaurant-ananas')
 </main>
 
 @endsection
@@ -32,7 +32,7 @@
       centeredSlides: true,
       effect: "fade",
       autoplay: {
-        delay: 2500,
+        delay: 4000,
         disabledOnInteraction: false,
       }
     });
