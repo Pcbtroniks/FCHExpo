@@ -2,7 +2,7 @@
 
     <div class="space-y"></div>
 
-    <div class="px-4 md:px-54 text-shadow md:my-50">
+    <div class="px-4 md:px-54 text-shadow md:my-50 mt-4">
 
         <h3 class="pr-10 text-5xl font-bold text-dark-text mb-10">Comentarios</h3>
 
