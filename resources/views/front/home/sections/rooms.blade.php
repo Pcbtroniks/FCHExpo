@@ -1,7 +1,7 @@
 <section>
     <div class="p-8 bg-salmon-light">
 
-        <div class="max-w-7xl mx-auto">
+        <div class=" mx-auto">
             
             <div class="mb-8">
                 
@@ -16,9 +16,9 @@ FCH Hotel Expo</p>
 
             
             <!-- <div class="md:columns-xs/*[20rem 320px]*/ lg:columns-sm/*[24rem 384px]*/ xl:columns-xl/*[36rem 576px]*/"> -->
-            <div class="grid md:grid-cols-2 md:gap-4 justify-between">
+            <div class="grid md:grid-cols-2 2xl:grid-cols-4 w-full md:gap-4 justify-between">
                 <!--Room Card-->
-                <div class="shadow-card card-shadow max-w-[38rem] mx-auto w-full mb-8">
+                <div class="shadow-card card-shadow  mx-auto w-full mb-8">
                     
                     <div class="w-full h-[230px] overflow-hidden">
                         <img class="w-full h-full object-cover hover:scale-110 transition-transform duration-300" src="{{asset('assets/img/rooms/simple.jpg')}}" alt="Habitación simple">

@@ -3,9 +3,9 @@
     <div class="px-8 py-[5.5rem] flex flex-wrap max-w-7xl mx-auto">
         <div class="lg:w-1/2 w-full">
             <h2 class="text-3xl font-bold">
-                Hotel FCH Minerva
+                Hotel FCH EXPO
             </h2>
-            <span class="border-b-4 border-main block lg:w-72 my-2"></span>
+            <span class="border-b-4 border-hielow block lg:w-72 my-2"></span>
             <p class="text-xl">
                 En el corazón Guadalajara
             </p>
@@ -15,7 +15,7 @@
             </p>
             <div class="h-3 xl:h-8"></div>
             <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
-                <button class="cta-main-button w-full sm:w-80 bg-main">
+                <button class="cta-main-button w-full sm:w-80 bg-salmon">
                     <span>Reservar Ahora</span>
                 </button>
             </a>
