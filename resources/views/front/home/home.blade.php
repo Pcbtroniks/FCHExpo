@@ -5,6 +5,11 @@
 @section('css')
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css" />
 <style>
+
+    html{
+        background-color: ;
+    }
+
 button.cta-main-button {
     position: relative;
     display: flex;

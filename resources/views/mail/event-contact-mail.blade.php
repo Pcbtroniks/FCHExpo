@@ -1,6 +1,6 @@
 <html>
     <head>
-      <title>Nuevo correo de contacto desde la web hotelcasinoplaza.mx</title>
+      <title>Nuevo correo de contacto desde la web FCHMinerva</title>
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width">
       <style type="text/css">

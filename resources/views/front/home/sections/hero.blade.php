@@ -18,7 +18,7 @@
                 <p class="text-lg px-10">
                     Nuestros espacios son únicos y diferentes entre sí, diseñados por artistas regionales para que encuentres no sólo un área agradable estéticamente, sino una experiencia completa de descanso e inmersión en el arte.
                 </p>
-                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
+                <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
                     <button class="cta-main-button w-80 bg-salmon mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
