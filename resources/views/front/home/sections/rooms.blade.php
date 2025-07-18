@@ -44,7 +44,7 @@ FCH Hotel Expo</p>
                         
                         <div>
                             <div class="space-y md:h-5"></div>
-                            <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
+                            <a target="_blank" href="{{ route('rengin.direct-booking') }}">
                                 <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
@@ -79,7 +79,7 @@ FCH Hotel Expo</p>
                         
                         <div>
                             <div class="space-y md:h-5"></div>
-                            <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
+                            <a target="_blank" href="{{ route('rengin.direct-booking') }}">
                                 <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
@@ -114,7 +114,7 @@ FCH Hotel Expo</p>
                         
                         <div>
                             <div class="space-y md:h-5"></div>
-                            <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
+                            <a target="_blank" href="{{ route('rengin.direct-booking') }}">
                                 <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
@@ -149,7 +149,7 @@ FCH Hotel Expo</p>
                         
                         <div>
                             <div class="space-y md:h-5"></div>
-                            <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
+                            <a target="_blank" href="{{ route('rengin.direct-booking') }}">
                                 <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
                             </a>
                         </div>
