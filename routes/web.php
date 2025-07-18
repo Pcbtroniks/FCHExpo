@@ -32,5 +32,5 @@ Route::get('restaurant-granada', [FrontController::class, "resGranada"])->name('
 
 
 Route::get('rengin-direct-booking', function(){
-    return redirect()->route('contact');
+    return redirect()->route('https://hotels.cloudbeds.com/reservation/K6bLIF');
 })->name('rengin.direct-booking');
