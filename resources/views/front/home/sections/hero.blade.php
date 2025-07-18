@@ -18,7 +18,7 @@
                 <p class="text-lg px-10">
                     Nuestros espacios son únicos y diferentes entre sí, diseñados por artistas regionales para que encuentres no sólo un área agradable estéticamente, sino una experiencia completa de descanso e inmersión en el arte.
                 </p>
-                <a target="_blank" href="{{ route('rengin.direct-booking') }}">
+                <a target="_blank" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
                     <button class="cta-main-button w-80 bg-salmon mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -43,7 +43,7 @@
                 <p class="text-lg px-10">
                     Estamos seguros de poder alcanzar sus más altas expectativas, considerando que día a día mejoramos la calidad en nuestros servicios e instalaciones.
                 </p>
-                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
+                <a target="_blanck" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
                     <button class="cta-main-button w-80 bg-aqua mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -68,7 +68,7 @@
                 <p class="text-lg px-10">
                     Calidez, servicio y atención al detalle: trabajamos continuamente para que tu experiencia con nosotros sea impecable.
                 </p>
-                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
+                <a target="_blanck" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
                     <button class="cta-main-button w-80 bg-salmon mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>
@@ -93,7 +93,7 @@
                 <p class="text-lg px-10">
                     Más que hospedaje: una experiencia cuidada y en constante evolución para satisfacer incluso al viajero más exigente.
                 </p>
-                <a target="_blanck" href="{{ route('rengin.direct-booking') }}">
+                <a target="_blanck" href="https://hotels.cloudbeds.com/reservation/K6bLIF">
                     <button class="cta-main-button w-80 bg-blue mx-auto mt-3">
                         <span>Reservar Ahora</span>
                     </button>

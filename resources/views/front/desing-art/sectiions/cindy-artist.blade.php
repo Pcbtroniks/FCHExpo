@@ -24,7 +24,7 @@
      </div>
           <div class="mt-6" data-aos="zoom-in-left">
             <h6 class="text-salmon text-center font-bold mb-6">Acerca de Ella</h6>
-            <p class="text-lg max-w-6xl text-white">Su filosofía es crear experiencias únicas: Dar soluciones creativas a las necesidades que presenta cada proyecto, con el objetivo de sorprender al cliente y extender sus expectativas. Su experiencia y conocimiento se aplica a todo tipo de diseño y les permite abordar cada proyecto de manera dramática, creativa y conceptual. Es por eso que se involucra durante todo el proceso con su cliente, ya que sus necesidades y personalidad son el motor de nuestras ideas.
+            <p class="text-lg max-w-6xl text-black">Su filosofía es crear experiencias únicas: Dar soluciones creativas a las necesidades que presenta cada proyecto, con el objetivo de sorprender al cliente y extender sus expectativas. Su experiencia y conocimiento se aplica a todo tipo de diseño y les permite abordar cada proyecto de manera dramática, creativa y conceptual. Es por eso que se involucra durante todo el proceso con su cliente, ya que sus necesidades y personalidad son el motor de nuestras ideas.
 Su red de profesionales incluye constructores, artistas y artesanos que comparten nuestra visión para lograr el mejor diseño posible, un Diseño con alma propia.</p>
           </div>
                         <div class="m-6 gap-4 grid grid-cols-2 2xl:grid-cols-4 text-center">
