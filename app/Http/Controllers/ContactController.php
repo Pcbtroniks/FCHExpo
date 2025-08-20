@@ -1,14 +1,10 @@
 <?php
 
-namespace App\Http\Controllers\Front;
+namespace App\Http\Controllers;
 
-use App\Http\Requests\Front\EventContactMailRequest;
-use App\Http\Requests\Front\ContactMailRequest;
-use App\Http\Controllers\Controller;
-use Illuminate\Support\Facades\Mail;
-use App\Mail\EventContactMail;
 use Illuminate\Http\Request;
-use App\Mail\ContactMail;
+use Illuminate\Support\Facades\Mail;
+
 
 class ContactController extends Controller
 {
@@ -22,7 +18,7 @@ class ContactController extends Controller
         ]);
 
         // Here you would typically send the email using a Mailable class
-        Mail::to(config('mail.from.address'))->send(new ContactMail($data));
+        Mail::to('expo@fch-hotels.com')->send(new \App\Mail\ContactMail($data));
 
         return redirect()->back()->with('success', 'Nos pondremos en contacto contigo a la brevedad.');
     }

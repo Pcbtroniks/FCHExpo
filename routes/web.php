@@ -16,11 +16,7 @@ Route::get('services', [FrontController::class, 'services'])->name('services');
 
 Route::get('contact', [FrontController::class, 'contact'])->name('contact');
 
-Route::post('contact', [ContactController::class, 'sendContactEmail'])->name('contact.send');
-
-Route::get('event-contact', [FrontController::class, 'eventContact'])->name('event.contact');
-
-Route::post('event-contact', [ContactController::class, 'sendEventContactEmail'])->name('event.contact.send');
+Route::post('/contact/send', [ContactController::class, 'sendContactEmail'])->name('event.contact.send');
 
 Route::get('restaurant-los-alcatraces-menu', [FrontController::class, 'restaurantMenu'])->name('restaurantMenu');
 

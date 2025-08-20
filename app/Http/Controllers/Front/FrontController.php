@@ -37,10 +37,6 @@ class FrontController extends Controller
         return view('front.contact.contact');
     }
 
-    public function eventContact()
-    {
-        return view('front.event-contact.contact');
-    }
 
     public function restaurantMenu()
     {

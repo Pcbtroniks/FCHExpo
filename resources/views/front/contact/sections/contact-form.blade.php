@@ -4,7 +4,7 @@
 
         <div class="space-y"></div>
 
-        <form action="{{route('contact.send')}}" method="POST" class="mx-auto">
+        <form action="{{route('event.contact.send')}}" method="POST" class="mx-auto">
             @csrf
             @method('POST')
             <div class="lg:flex lg:justify-between lg:gap-8">
@@ -27,7 +27,7 @@
 
             <div class="text-left">
                 <div class="space-y"></div>
-                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Reservar Ahora</button>
+                <button class="h-12 w-36 bg-salmon text-white text-sm font-bold">Enviar</button>
                 <div class="space-y-sm"></div>
             </div>
 
